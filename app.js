@@ -1,4 +1,4 @@
-var gameState;
+ var gameState;
 
 gameState = {
 	year : 0,
